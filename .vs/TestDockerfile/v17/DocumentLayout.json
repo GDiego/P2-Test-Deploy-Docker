@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gamer\\source\\repos\\TestDockerfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB178BDE-D9B8-4F9A-81C0-77B7FBAA5807}|TestDockerfile\\TestDockerfile.csproj|c:\\users\\gamer\\source\\repos\\testdockerfile\\testdockerfile\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB178BDE-D9B8-4F9A-81C0-77B7FBAA5807}|TestDockerfile\\TestDockerfile.csproj|solutionrelative:testdockerfile\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB178BDE-D9B8-4F9A-81C0-77B7FBAA5807}|TestDockerfile\\TestDockerfile.csproj|c:\\users\\gamer\\source\\repos\\testdockerfile\\testdockerfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB178BDE-D9B8-4F9A-81C0-77B7FBAA5807}|TestDockerfile\\TestDockerfile.csproj|solutionrelative:testdockerfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB178BDE-D9B8-4F9A-81C0-77B7FBAA5807}|TestDockerfile\\TestDockerfile.csproj|c:\\users\\gamer\\source\\repos\\testdockerfile\\testdockerfile\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB178BDE-D9B8-4F9A-81C0-77B7FBAA5807}|TestDockerfile\\TestDockerfile.csproj|solutionrelative:testdockerfile\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\source\\repos\\TestDockerfile\\TestDockerfile\\Program.cs",
+              "RelativeDocumentMoniker": "TestDockerfile\\Program.cs",
+              "ToolTip": "C:\\Users\\Gamer\\source\\repos\\TestDockerfile\\TestDockerfile\\Program.cs",
+              "RelativeToolTip": "TestDockerfile\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:19:13.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\source\\repos\\TestDockerfile\\TestDockerfile\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TestDockerfile\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Gamer\\source\\repos\\TestDockerfile\\TestDockerfile\\WeatherForecast.cs",
+              "RelativeToolTip": "TestDockerfile\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:08:09.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Gamer\\source\\repos\\TestDockerfile\\TestDockerfile\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TestDockerfile\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Gamer\\source\\repos\\TestDockerfile\\TestDockerfile\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TestDockerfile\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:07:39.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
